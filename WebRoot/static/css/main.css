@@ -1,0 +1,52 @@
+html {
+	height: 100%;
+}
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,input,button,textarea,p,blockquote,th,td
+	{
+	margin: 0;
+	padding: 0;
+}
+
+.table td {
+	border: 1px solid black;
+}
+
+.top {
+	width: auto;
+	height: 70px;
+	background-color: #5599FF;
+	font-size: 40px;
+	color: white;
+}
+
+.left {
+	height: 100%;
+	position: absolute;
+	background-color: #99BBFF;
+}
+ .left label{
+    color: white;
+	font-size: 25px;
+}
+.left a {
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.left tr {
+	height: 55px;
+}
+
+.left a:hover {
+	color: blue;
+}
+.blue:hover{
+   color:blue;
+}
+body{
+	text-align: center;
+	background-color: #CCDDFF;
+	height: 100%;
+}
